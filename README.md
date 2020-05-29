@@ -2,20 +2,19 @@
 
 MERN-boilerplate
 This is a boilerplate project using the following technologies:
-
 React and React Router for the frontend
 Express and Mongoose for the backend
 css
 Webpack for compilation
+
+
 Requirements
-Node.js 6+
-npm install
-Running
-Make sure to add a config.js file in the config folder. See the example there for more details.
+$ Node.js 6+
+
 
 Production mode:
 
-npm start
+$npm start 
 
 
 To use this application, 
