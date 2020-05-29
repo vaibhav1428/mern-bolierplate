@@ -8,11 +8,11 @@ css
 Webpack for compilation
 
 
-Requirements
+# Requirements
 $ Node.js 6+
 
 
-Production mode:
+# Production mode:
 
 $npm start 
 
@@ -25,7 +25,7 @@ To use this application,
 4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
 
 
-Technologies:
+# Technologies:
 
 React - View Library
 
